@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790894770197",
+    "project_id": "tilt-9ca7d",
+    "storage_bucket": "tilt-9ca7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790894770197:android:7d4ca231c9da8a4491b61c",
+        "android_client_info": {
+          "package_name": "com.example.tilt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV6zvqYQWqOVQ5Yfafh2J5fY71-v6PuTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
